@@ -1,7 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&color=0:FFE400,100:00D8FF&animation=fadeIn&fontColor=005766&fontSize=50)
-![header](https://capsule-render.vercel.app/api?type=Soft&text=JinguLee's%20github&color=FAED7D&animation=twinkling&fontColor=FFFFFF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&color=0:FFE400,100:00D8FF&animation=fadeIn&fontColor=005766&fontSize=50&desc=JinguLeee's%20github&fontAlignY=30&fontAlign=20)
 
 <!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=JinguLeee&theme=cold)
 <img src="http://mazandi.herokuapp.com/api?handle=JinguLeee&theme=cold"/>->

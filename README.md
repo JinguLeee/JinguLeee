@@ -39,5 +39,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-round&logo=AmazonRDS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-round&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-round&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-round&logo=filezilla&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-round&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F06A6A?style=flat-round&logo=slack&logoColor=white"/>
+
+<br><br><br>
   
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pingu514)](https://solved.ac/pingu514)
+&emsp;&emsp;&emsp;
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pingu514&theme=cold)
 </div>

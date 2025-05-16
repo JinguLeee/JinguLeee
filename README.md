@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <br>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jinguLeee&show_icons=true&theme=vue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinguLeee&layout=compact&theme=vue">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jinguLeee&show_icons=true&theme=gruvbox_light"> &emsp;&emsp;
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinguLeee&layout=compact&langs_count=8&card_width=320&theme=gruvbox_light">
 </p>
   
 <br>⚙️Tech Stack🔧<br>
